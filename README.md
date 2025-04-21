@@ -24,8 +24,8 @@ B. Nội dung Bài tập 05:
 5. Kết luận về Trigger đã giúp gì cho đồ án của em.
 
 # A. Trình bày lại đầu bài của đồ án PT&TKHT:
-  1.Yêu cầu của đồ án: Phân tích thiết kế hệ thống quản lý hiệu thuốc
-  2.Cơ sở dữ liệu của hệ thống quản lý hiệu thuốc
+1. Yêu cầu của đồ án: Phân tích thiết kế hệ thống quản lý hiệu thuốc.
+2. Cơ sở dữ liệu của hệ thống quản lý hiệu thuốc
 ## Tạo bảng Database mới mang tên QLHieuThuoc
 ![Screenshot 2025-04-21 151626](https://github.com/user-attachments/assets/ffb2f68f-efa8-46fa-b647-eb4ece0fc4d6)
 ## Tạo bảng mang tên Phieu_Nhap
